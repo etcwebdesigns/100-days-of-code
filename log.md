@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 16, 2022
+### Day 0: March 17, 2022
 
 **Today's Progress**: Basic HTML and CSS
 
@@ -9,20 +9,19 @@
 **Link to work:** [Basic HTML/CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/create-a-set-of-checkboxes)
 
 
-### Day 1: March 17, 2022
+### Day 1: March 18, 2022
 
-**Today's Progress**: 
-**Thoughts**: 
+**Today's Progress**: Javascript
+**Thoughts**: I had to find something a little more challenging than HTML/CSS, I'm a web designer that was no fair
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Javascript] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code
 
+### Day 2: March 19, 2022
 
-### Day 2: March 17, Thursday
+**Today's Progress**: I completed 20%
 
-**Today's Progress**: 
-
-**Thoughts** 
+**Thoughts** I had to go over my hour but it's all good, I love programming and this is giving me some serious incentives 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Using Variables and Operands] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication
+
