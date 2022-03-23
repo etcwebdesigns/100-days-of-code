@@ -46,3 +46,12 @@
 **Link(s) to work**
 1. [Using Escape Sequences] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/find-the-length-of-a-string
 
+
+Day 5: March 22, 2022
+Today's Progress: I completed 37%
+
+Thoughts My forgetfullness is what seems to be holding me back
+
+Link(s) to work
+
+[Using Array's] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list
