@@ -19,7 +19,7 @@
 
 ### Day 2: March 19, 2022
 
-**Today's Progress**: I completed 20%
+**Today's Progress**: I completed 17% of the JS Curriculum
 
 **Thoughts** I had to go over my hour but it's all good, I love programming and this is giving me some serious incentives 
 
@@ -29,7 +29,7 @@
 
 ### Day 3: March 20, 2022
 
-**Today's Progress**: I completed 27%
+**Today's Progress**: I completed 24% of the JS Curriculum
 
 **Thoughts** I sometimes have to work twice as hard to prove to myself how good I can be 
 
@@ -39,7 +39,7 @@
 
 ### Day 4: March 21, 2022
 
-**Today's Progress**: I completed 37%
+**Today's Progress**: I completed 30% of the JS Curriculum
 
 **Thoughts** I sometimes have to play makeup in my day because of my forgetfullness will definitely have to put more brain power into this. 
 
@@ -48,10 +48,20 @@
 
 
 Day 5: March 22, 2022
-Today's Progress: I completed 37%
+Today's Progress: I completed 37% of the JS Curriculum
 
 Thoughts My forgetfullness is what seems to be holding me back
 
 Link(s) to work
 
 [Using Array's] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list
+
+
+Day 6: March 23, 2022
+Today's Progress: I completed 47% of the JS Curriculum
+
+Thoughts There's so much to learn in JS
+
+Link(s) to work
+
+[Local and Global Scope] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
