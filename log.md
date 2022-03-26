@@ -65,3 +65,25 @@ Thoughts There's so much to learn in JS
 Link(s) to work
 
 [Local and Global Scope] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/understanding-undefined-value-returned-from-a-function
+
+
+Day 6: March 24, 2022
+Today's Progress: I completed 50% of the JS Curriculum
+
+Thoughts There's so much to learn in JS that I didn't really know
+
+Link(s) to work
+
+[Local and Global Scope] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
+
+
+Day 7: March 25, 2022
+Today's Progress: I completed 55% of the JS Curriculum
+
+Thoughts There's so much to learn in JS that I didn't really know
+
+Link(s) to work
+
+[Local and Global Scope] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-conditional-logic-with-if-statements
+
+
